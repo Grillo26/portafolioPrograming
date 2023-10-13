@@ -91,7 +91,17 @@
   }
 }
 
+/* Estilos para el contenedor de la tarjeta */
+.card-container {
+  display: inline-block;
+  text-decoration: none; /* Elimina el subrayado del enlace */
+  color: inherit; /* Hereda el color del texto del enlace */
+}
 
+/* Estilos para la tarjeta */
+.card {
+  /* Agrega tus estilos de tarjeta aquí */
+}
 
 /* Estilo del fondo oscuro */
 .fondo-modal {
